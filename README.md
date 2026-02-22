@@ -4,5 +4,7 @@ Linux paketlerini dağıtım depolarındaki güncel sürüme göre sıralayan uy
 
 Kaynak: https://repology.org/
 
+Debian tabanlı sistemler için .deb paketi indirme linki: https://github.com/03tekno/paket-takip/raw/refs/heads/main/paket-takip_1.0.0.deb
+
 
 ![screenshot](resim.png "screenshot")
