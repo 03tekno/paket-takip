@@ -1,0 +1,9 @@
+Package: paket-takip
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: mobilturka
+Depends: python3, python3-pip, python3-pyqt6, python3-requests
+Description: Repology Akilli Paket Takip Sistemi
+ Repology API kullanarak dagitimlardaki paket surumlerini sorgulayan GUI araci.
